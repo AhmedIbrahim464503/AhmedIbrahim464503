@@ -84,18 +84,7 @@ My focus is on **LangChain, LangGraph, FastAPI**, and real-world automation that
 💸 Optimized financial transactions using DSA  
 **Tech:** C++ / Graph Algorithms
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedIbrahim464503&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedIbrahim464503&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedIbrahim464503&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
