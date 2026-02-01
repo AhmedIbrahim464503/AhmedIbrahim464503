@@ -40,7 +40,7 @@ I’m Ahmed Ibrahim, a Computer Science student at NUST (Class of 2027) passiona
 - **Congestion Prediction & Emergency Resource Allocation** – AI system for traffic and emergency management  
 - **NearBuy** – MERN stack project for local commerce discovery  
 - **Cash Flow Minimizer** – Optimizes financial transactions among multiple users  
-
+- **FactFinder** –  FactFinder is an AI-powered research assistant that automates document retrieval, processing, and knowledge extraction.
 ---
 
 ## 📫 Contact Me
