@@ -48,7 +48,7 @@ I’m Ahmed Ibrahim, a Computer Science student at NUST (Class of 2027) passiona
 - 🔗 GitHub: [github.com/AhmedIbrahim464503](https://github.com/AhmedIbrahim464503)  
 - 🔗 LinkedIn: [linkedin.com/in/ahmed-ibrahim-1165122a3](https://linkedin.com/in/ahmed-ibrahim-1165122a3)  
 - 📱 Phone: 03429384291 | 03151983625  
-- 🌐 Portfolio: *(Coming soon)*  
+- 🌐 Portfolio:https://ahmedibrahim-portfolio.vercel.app/
 
 ---
 
