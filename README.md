@@ -1,63 +1,134 @@
-# Hi there 👋, I'm Ahmed Ibrahim
-
-## 🔹 About Me
-I’m Ahmed Ibrahim, a Computer Science student at NUST (Class of 2027) passionate about AI/ML engineering, intelligent agent development, and full-stack web development. I specialize in building scalable RAG systems, automation pipelines, and modern web applications using **LangChain, LangGraph, React, and FastAPI**.
-
----
-
-## 🛠️ Skills
-
-### Programming & Databases
-![Python](https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI / ML / Agents
-![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/-LangGraph-007ACC?style=for-the-badge)
-![RAG](https://img.shields.io/badge/-RAG-007ACC?style=for-the-badge)
-
-### Web Development
-![React](https://img.shields.io/badge/-React-007ACC?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge)
-
-### Other
-![Automation](https://img.shields.io/badge/-Automation-007ACC?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-007ACC?style=for-the-badge)
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=220&section=header&text=Ahmed%20Ibrahim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agent%20Builder&descAlignY=55" />
+</p>
 
 ---
 
-## 💼 Projects
+## 👋 Hey, I'm Ahmed Ibrahim
 
-- **AdmitFlow** – University admission platform with integrated chatbot  
-- **SmartSubmit** – Automated lab report submission system  
-- **Congestion Prediction & Emergency Resource Allocation** – AI system for traffic and emergency management  
-- **NearBuy** – MERN stack project for local commerce discovery  
-- **Cash Flow Minimizer** – Optimizes financial transactions among multiple users  
-- **FactFinder** –  FactFinder is an AI-powered research assistant that automates document retrieval, processing, and knowledge extraction.
----
+🎓 **Computer Science @ NUST (2027)**  
+🤖 **AI / ML Engineer | Intelligent Agent Developer**  
+🌐 **MERN Stack | Automation & Scraping**
 
-## 📫 Contact Me
-- 📧 Email: ahmed.1036ibrahim491@gmail.com  
-- 🔗 GitHub: [github.com/AhmedIbrahim464503](https://github.com/AhmedIbrahim464503)  
-- 🔗 LinkedIn: [linkedin.com/in/ahmed-ibrahim-1165122a3](https://linkedin.com/in/ahmed-ibrahim-1165122a3)  
-- 📱 Phone: 03429384291 | 03151983625  
-- 🌐 Portfolio:https://ahmedibrahim-portfolio.vercel.app/
+I build **intelligent AI systems**, **RAG pipelines**, and **scalable full-stack apps**.  
+My focus is on **LangChain, LangGraph, FastAPI**, and real-world automation that actually ships.
 
 ---
 
-## ⚡ Fun Facts
-- 🎓 Math lover  
-- 🏏 Cricket lover  
-- 📚 History & politics enthusiast  
+## 🧠 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI / ML / Agents
+- LangChain  
+- LangGraph  
+- Retrieval-Augmented Generation (RAG)  
+- Agent-based systems  
+- Prompt engineering  
+
+</td>
+<td width="50%">
+
+### 🌐 Full-Stack & Backend
+- MERN Stack (React, Node.js, Express)  
+- FastAPI (Async APIs)  
+- PostgreSQL & Supabase  
+- REST APIs  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedIbrahim464503&show_icons=true&theme=blue)
+## 🛠️ Tech Stack (Visual)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,postgres,docker,git&theme=light" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AdmitFlow
+🎓 University admission platform with **AI chatbot**  
+**Tech:** LangChain, React, FastAPI
+
+---
+
+### 🔹 SmartSubmit
+⚙️ Automated **lab report submission system**  
+**Tech:** Python, Automation, Scraping
+
+---
+
+### 🔹 Congestion Prediction & Emergency Resource Allocation
+🚑 AI-based traffic & emergency management system  
+**Tech:** Python, AI Algorithms
+
+---
+
+### 🔹 NearBuy
+🛍️ Local commerce discovery platform  
+**Tech:** MERN Stack
+
+---
+
+### 🔹 Cash Flow Minimizer
+💸 Optimized financial transactions using DSA  
+**Tech:** C++ / Graph Algorithms
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedIbrahim464503&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedIbrahim464503&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedIbrahim464503&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/AhmedIbrahim464503">
+    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ahmed-ibrahim-1165122a3">
+    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmed.1036ibrahim491@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+📞 **Phone:** 03429384291 | 03151983625  
+🌐 **Portfolio:** https://ahmedibrahim-portfolio.vercel.app/
+
+---
+
+## ⚡ Beyond Code
+
+- 🧮 Math lover  
+- 🏏 Cricket enthusiast  
+- 📜 History & politics nerd  
+- 🧠 Obsessed with solving hard problems
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1E90FF&height=3" />
+</p>
+
+<p align="center">
+  🚀 *Always building. Always learning.*
+</p>
