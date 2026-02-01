@@ -1,7 +1,9 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=220&section=header&text=Ahmed%20Ibrahim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agent%20Builder&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2,1E90FF&height=220&section=header&text=Ahmed%20Ibrahim&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agent%20Builder&descAlignY=55" />
 </p>
+
+
 
 ---
 
