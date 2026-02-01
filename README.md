@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2,1E90FF&height=220&section=header&text=Ahmed%20Ibrahim&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agent%20Builder&descAlignY=55" />
+  <img src="https://img.shields.io/badge/Ahmed%20Ibrahim-AI%2FML%20Engineer-blue?style=for-the-badge&logo=appveyor" />
 </p>
 
 
