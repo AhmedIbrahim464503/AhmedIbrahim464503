@@ -64,8 +64,7 @@ My focus is on **LangChain, LangGraph, FastAPI**, and real-world automation that
 
 ### 🔹 SmartSubmit
 ⚙️ Automated **lab report submission system**  
-**Tech:** Python, Automation, Scraping
-
+**Tech:** Python, Automation, Moodle , Claudebot
 ---
 
 ### 🔹 Congestion Prediction & Emergency Resource Allocation
